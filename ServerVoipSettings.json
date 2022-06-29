@@ -1,0 +1,12 @@
+{
+    "VOIPEnabled": true,
+    "VOIPIssuer": "jamess9601-vr42-dev",
+    "VOIPSecret": "jump087",
+    "VOIPAppUserId": "JamesS9601-VR42-dev-Admin",
+    "VOIPAppUserPwd": "4lREnDSzlvLMCq9p",
+    "VOIPVivoxDomain": "mt1s.vivox.com",
+    "VOIPAPIEndpoint": "https://mt1s.www.vivox.com/api2",
+    "VOIPConversationalDistance": 14,
+    "VOIPAudibleDistance": 40,
+    "VOIPFadeIntensity": 2.0
+}
